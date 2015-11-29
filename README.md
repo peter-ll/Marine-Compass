@@ -1,6 +1,8 @@
 Marine Compass
 ====================
 
+http://richtr.github.io/Marine-Compass
+
 A fully web standards compliant JavaScript 3D Compass application.
 
 #### Requirements ####
